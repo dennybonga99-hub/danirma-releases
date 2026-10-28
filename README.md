@@ -6,9 +6,9 @@ APK oficial do DANIRMA para Android.
 
 [Descarregar a versao mais recente](https://github.com/dennybonga99-hub/danirma-releases/releases/latest/download/danirma.apk)
 
-- Versao actual: **1.0.0**
+- Versao actual: **1.0.1** (versionCode 2)
 - Ficheiro: danirma.apk
-- Tamanho: 159.961.804 bytes
-- SHA-256: F72E49EB91596E245F1CCA2A24EF5500458BA5ABFC5863A2F5D5BB3C685DC930
+- Tamanho: 160.380.855 bytes
+- SHA-256: 3547B07D13F625C165A6A0B2DEA3142C00976FC12ADC5F7B6C56BB79CB5C08EA
 
 O link aponta sempre para o APK da release mais recente.
